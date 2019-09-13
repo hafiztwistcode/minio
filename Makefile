@@ -1,5 +1,5 @@
 PWD := $(shell pwd)
-GOPATH := $(shell go env GOPATH)
+GOPATH := /home/twistcode/minio/git/test/minio/minio
 LDFLAGS := $(shell go run buildscripts/gen-ldflags.go)
 
 GOOS := $(shell go env GOOS)
