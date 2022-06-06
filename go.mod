@@ -59,7 +59,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/skyrings/skyring-common v0.0.0-20160929130248-d1c0bb1cbd5e
 	github.com/streadway/amqp v0.0.0-20190402114354-16ed540749f6
-	github.com/tidwall/gjson v1.2.1
+	github.com/tidwall/gjson v1.9.3
 	github.com/tidwall/sjson v1.0.4
 	github.com/valyala/fastjson v1.4.1
 	github.com/valyala/tcplisten v0.0.0-20161114210144-ceec8f93295a
