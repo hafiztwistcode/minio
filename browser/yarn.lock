@@ -2202,9 +2202,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal-ident@^1.1.1:
   version "1.1.1"
@@ -6977,9 +6977,10 @@ react-infinite-scroller@^1.0.6:
   dependencies:
     prop-types "^15.5.8"
 
-react-onclickout@2.0.4:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/react-onclickout/-/react-onclickout-2.0.4.tgz#2c7539a647e1dcdcab0b28e2f4eae3c3e00f0c64"
+react-onclickout@^2.0.8:
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/react-onclickout/-/react-onclickout-2.0.8.tgz#d178b13fb87a481356761b454aa60df7069b2da4"
+  integrity sha512-JpcIHZwCq6Ba/lVsvrvQWzAKHg4SPavqDr++nOpzgUNELXK1gIS4+fV40C1I1W/j7IrORR9WDuK6IBjcWw4R1Q==
 
 react-overlays@^0.8.0:
   version "0.8.3"
